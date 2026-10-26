@@ -2,29 +2,43 @@
 <html lang="he" dir="rtl">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>אתר המוזיקה – דף ראשי</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <h1>אתר המוסיקה – דף ראשי</h1>
+    <header>
+        <h1>אתר המוסיקה – דף ראשי</h1>
+    </header>
 
-<p>
-    אתר המוסיקה<br>
-    ברוכים הבאים לאתר המוסיקה שלי<br>
-    באתר זה יש את כל כלי הנגינה שאתם אוהבים לשמוע.
-</p>
+    <main>
+        <p>
+            אתר המוסיקה<br>
+            ברוכים הבאים לאתר המוסיקה שלי<br>
+            באתר זה יש את כל כלי הנגינה שאתם אוהבים לשמוע.
+        </p>
 
-<h2>כלי נגינה</h2>
+        <nav aria-label="ניווט ראשי">
+            <ul>
+                <li><a href="main.html">דף ראשי</a></li>
+                <li><a href="about.html">אודות</a></li>
+                <li>
+                    כלי נגינה
+                    <ul>
+                        <li><a href="flute.html">חליל</a></li>
+                        <li><a href="drums.html">תופים</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
 
-<ul>
-    <li>חליל</li>
-    <li>תוף</li>
-    <li>גיטרה</li>
-    <li>פסנתר</li>
-</ul>
+        <h2>ארבעה כלי נגינה</h2>
+        <ol>
+            <li><a href="flute.html">חליל</a></li>
+            <li><a href="drums.html">תוף</a></li>
+            <li>גיטרה</li>
+            <li>פסנתר</li>
+        </ol>
+    </main>
 </body>
 </html>
-
-<a href="about.html">אודות</a>
-
-<img src="images/flute.svg" alt="חליל צד">
-
