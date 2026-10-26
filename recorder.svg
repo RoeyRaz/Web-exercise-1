@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" role="img" aria-label="איור חלילית">
+  <rect width="480" height="170" rx="16" fill="#f1f7fa"/>
+  <g transform="rotate(-8 240 85)">
+    <rect x="96" y="68" width="300" height="35" rx="8" fill="#bd804b" stroke="#81502f" stroke-width="4"/>
+    <rect x="54" y="62" width="69" height="47" rx="8" fill="#d49b62" stroke="#81502f" stroke-width="4"/>
+    <rect x="62" y="70" width="21" height="8" rx="2" fill="#624029"/>
+    <rect x="390" y="64" width="17" height="43" rx="5" fill="#a56e42" stroke="#81502f" stroke-width="3"/>
+    <g fill="#533d30"><circle cx="152" cy="85" r="6"/><circle cx="188" cy="85" r="6"/><circle cx="224" cy="85" r="6"/><circle cx="260" cy="85" r="6"/><circle cx="296" cy="85" r="6"/><circle cx="332" cy="85" r="6"/></g>
+  </g>
+</svg>

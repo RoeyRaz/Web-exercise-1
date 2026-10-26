@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" role="img" aria-label="איור חליל צד">
+  <rect width="480" height="170" rx="16" fill="#f1f7fa"/>
+  <g transform="translate(36 48) rotate(-9 200 40)">
+    <rect x="14" y="45" width="408" height="27" rx="12" fill="#aabfcb" stroke="#536c7d" stroke-width="3"/>
+    <rect x="24" y="48" width="388" height="9" rx="4" fill="#e5eef2"/>
+    <rect x="392" y="40" width="27" height="36" rx="5" fill="#7995a4" stroke="#536c7d" stroke-width="2"/>
+    <g fill="#dce7ec" stroke="#537487" stroke-width="3">
+      <circle cx="112" cy="58" r="13"/><circle cx="167" cy="58" r="13"/>
+      <circle cx="222" cy="58" r="13"/><circle cx="277" cy="58" r="13"/>
+      <circle cx="332" cy="58" r="13"/>
+    </g>
+    <ellipse cx="59" cy="58" rx="20" ry="7" fill="#496877"/>
+    <path d="M99 38 L112 33 M154 38 L167 33 M209 38 L222 33 M264 38 L277 33 M319 38 L332 33" stroke="#6d8796" stroke-width="4"/>
+  </g>
+</svg>

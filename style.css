@@ -1,0 +1,65 @@
+/* עיצוב בסיסי בלבד. הדרישות העיקריות בתרגיל הן תגיות HTML. */
+body {
+    background-color: #f7fafc;
+    color: #263746;
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+h1 {
+    color: #142c45;
+}
+
+h2 {
+    color: #276b91;
+}
+
+a {
+    color: #136a94;
+}
+
+nav {
+    background-color: #e7f1f6;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+
+nav ul {
+    margin: 6px 0;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #91a4af;
+    padding: 10px;
+    text-align: right;
+}
+
+th {
+    background-color: #e7f1f6;
+}
+
+td img, .hero-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.hero-image {
+    display: block;
+    width: 420px;
+    margin: 8px auto 22px;
+}

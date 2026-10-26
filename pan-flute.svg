@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" role="img" aria-label="איור חליל פאן">
+  <rect width="480" height="170" rx="16" fill="#f1f7fa"/>
+  <g stroke="#8c6137" stroke-width="3">
+    <rect x="104" y="26" width="36" height="124" rx="10" fill="#cc9860"/>
+    <rect x="145" y="26" width="36" height="113" rx="10" fill="#d5a56c"/>
+    <rect x="186" y="26" width="36" height="101" rx="10" fill="#c28b52"/>
+    <rect x="227" y="26" width="36" height="89" rx="10" fill="#d5a56c"/>
+    <rect x="268" y="26" width="36" height="77" rx="10" fill="#c28b52"/>
+    <rect x="309" y="26" width="36" height="65" rx="10" fill="#d5a56c"/>
+  </g>
+  <g fill="#654329"><ellipse cx="122" cy="29" rx="12" ry="4"/><ellipse cx="163" cy="29" rx="12" ry="4"/><ellipse cx="204" cy="29" rx="12" ry="4"/><ellipse cx="245" cy="29" rx="12" ry="4"/><ellipse cx="286" cy="29" rx="12" ry="4"/><ellipse cx="327" cy="29" rx="12" ry="4"/></g>
+  <path d="M95 58 L352 58 M95 73 L352 73" stroke="#6c4830" stroke-width="8" stroke-linecap="round"/>
+</svg>

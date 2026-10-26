@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" role="img" aria-label="איור מערכת תופים">
+  <rect width="480" height="220" rx="16" fill="#f1f7fa"/>
+  <g stroke="#536c7d" stroke-width="5" stroke-linecap="round">
+    <path d="M91 89 L74 196 M388 90 L405 196 M240 145 L240 204"/>
+    <path d="M240 130 L175 200 M240 130 L305 200"/>
+  </g>
+  <g fill="#dfb65c" stroke="#86652e" stroke-width="4">
+    <ellipse cx="92" cy="83" rx="62" ry="13"/>
+    <ellipse cx="386" cy="83" rx="62" ry="13"/>
+  </g>
+  <g fill="#368aa0" stroke="#28596d" stroke-width="5">
+    <rect x="154" y="81" width="75" height="57" rx="9"/>
+    <rect x="250" y="81" width="75" height="57" rx="9"/>
+    <circle cx="240" cy="157" r="61"/>
+  </g>
+  <g fill="#ecf2f4" stroke="#536c7d" stroke-width="4">
+    <ellipse cx="191" cy="84" rx="38" ry="11"/>
+    <ellipse cx="287" cy="84" rx="38" ry="11"/>
+    <circle cx="240" cy="157" r="44"/>
+  </g>
+  <path d="M144 55 L214 95 M333 57 L264 95" stroke="#a16d40" stroke-width="8" stroke-linecap="round"/>
+</svg>

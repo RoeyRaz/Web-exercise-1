@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" role="img" aria-label="איור תופי בונגוס">
+  <rect width="480" height="170" rx="16" fill="#f1f7fa"/>
+  <g stroke="#704832" stroke-width="4">
+    <path d="M121 58 L258 58 L244 142 Q190 158 135 142 Z" fill="#b96a4f"/>
+    <path d="M266 69 L371 69 L359 137 Q315 150 277 137 Z" fill="#d28e5c"/>
+  </g>
+  <path d="M248 92 L276 92" stroke="#704832" stroke-width="12" stroke-linecap="round"/>
+  <ellipse cx="189" cy="57" rx="70" ry="23" fill="#f1d2ae" stroke="#704832" stroke-width="5"/>
+  <ellipse cx="319" cy="68" rx="54" ry="19" fill="#f1d2ae" stroke="#704832" stroke-width="5"/>
+  <g stroke="#f0cb98" stroke-width="5"><path d="M140 91 L148 134 M175 95 L178 146 M217 95 L223 141 M286 98 L291 134 M319 100 L320 143 M350 96 L348 136"/></g>
+</svg>
